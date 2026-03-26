@@ -1,11 +1,11 @@
 package com.qualitystream.tutorial.model;
 
-public class Frut {
+public class Fruit {
 
     private String name;
     private int price;
 
-    public Frut(String name, int price) {
+    public Fruit(String name, int price) {
         this.name = name;
         this.price = price;
     }
